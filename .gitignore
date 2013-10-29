@@ -1,0 +1,4 @@
+WindowsGridApp/bin/
+WindowsGridApp/bld/
+*.suo
+*.user
